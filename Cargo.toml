@@ -6,5 +6,5 @@ edition = "2021"
 [dependencies]
 pubgrub = { git = "https://github.com/astral-sh/pubgrub", rev = "eb528c342e781015692c4093c817e25d35a01e0c" }
 ruff_python_parser = { git = "https://github.com/astral-sh/ruff", tag = "0.6.1" }
-salsa = { git = "https://github.com/salsa-rs/salsa", rev = "f608ff8" }
+salsa = { git = "https://github.com/salsa-rs/salsa", rev = "dfbe6d67f47c67387a649e71ebeea22c313d43bf" }
 serde_json = "=1.0.126"
