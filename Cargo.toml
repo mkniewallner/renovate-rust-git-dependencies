@@ -5,7 +5,7 @@ edition = "2021"
 
 [dependencies]
 regex = { git = "https://github.com/rust-lang/regex", rev = "0718fc5acbe91b84322ef1bd2c32e189e4668254" }
-ruff_python_parser = { git = "https://github.com/astral-sh/ruff", tag = "0.6.1" }
+ruff_python_parser = { git = "https://github.com/astral-sh/ruff", tag = "0.7.0" }
 salsa = { git = "https://github.com/salsa-rs/salsa", rev = "f608ff8" }
 serde = "1.0.213"
 serde_json = "=1.0.126"
